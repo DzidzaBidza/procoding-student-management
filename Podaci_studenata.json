@@ -1,0 +1,35 @@
+{
+    "TS130211": {
+        "ime": "Petar",
+        "prezime": "Petrovi\u0107",
+        "jmbg": "0105994563456",
+        "predmeti": {
+            "OST1": 9,
+            "OST2": 7,
+            "SUKN": 10,
+            "OPKS": 7
+        }
+    },
+    "VD140248": {
+        "ime": "Marija",
+        "prezime": "Marijanovi\u0107",
+        "jmbg": "1408995346789",
+        "predmeti": {
+            "OST1": 10,
+            "OST2": 8,
+            "SUKN": 9,
+            "OPKS": 8
+        }
+    },
+    "ZE170235": {
+        "ime": "Lune",
+        "prezime": "Stojanovi\u0107",
+        "jmbg": "0809998477884",
+        "predmeti": {
+            "OST1": 6,
+            "OST2": 7,
+            "SUKN": 9,
+            "OPKS": 10
+        }
+    }
+}

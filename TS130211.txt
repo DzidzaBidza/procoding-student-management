@@ -1,0 +1,5 @@
+Ime i prezime studenta: Petar Petrović
+Datum rođenja: 1.5.1994.
+Smer: Telekomunikacioni saobraćaj i mreže.
+Godiina upisa:2013
+Spisak predmeta i ocene: dict_items([('OST1', 9), ('OST2', 7), ('SUKN', 10), ('OPKS', 7)])
