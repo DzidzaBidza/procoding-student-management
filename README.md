@@ -12,7 +12,7 @@ By entering a student record number and after validation, a new window with info
  - Name and surname 
  - Index number
  - Date of birth (extracted from JMBG)
- - which course is enrolled (extracted from the student record number)
+ - Which course is enrolled (extracted from the student record number)
  - Year of enrollment at the faculty (extracted from the student record number)
  - Subjects enrolled in as well as grades
  - Average grade
@@ -20,6 +20,14 @@ By entering a student record number and after validation, a new window with info
 ![info](https://user-images.githubusercontent.com/91345686/161242449-6241a4f7-8435-4006-a761-5b2f065d83a5.png)
 
 That window also contains three buttons: for saving data in `.txt` format, `.zip` format as well as to graphical display of grades. If such information already exists, it prints the appropriate message on the screen.
+
+## New enrollment
+
+By clicking on the drop-down menu "Upis novog studenta" a new window opens and allows you to enter the necessary data for new students to be enrolled. Information about the new student is written to the existing JSON `student_details.json` file.
+
+![new_enrroling](https://user-images.githubusercontent.com/91345686/161244426-4bcbce48-bc14-4214-89fe-d269972a6760.png)
+
+
 
 
  
